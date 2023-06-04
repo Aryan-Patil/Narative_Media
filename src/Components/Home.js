@@ -8,19 +8,15 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "swiper/css/free-mode";
 import "swiper/css/pagination";
-import {Autoplay, FreeMode, Pagination } from "swiper";
+import Header from './Header';
+import { Autoplay, FreeMode, Pagination } from "swiper";
 
 export default function Home() {
     return (
         <div className='Home'>
             <img className='home-bg-img' src={homebackground} alt="" />
             <div className="Header">
-                <div className="header">
-                    <a className='header-text' href="#">HOME</a>
-                    <a className='header-text' href="#About">ABOUT US</a>
-                    <a className='header-text' href="#Services">SERVICES</a>
-                    <a className='header-text' href="#Contact">CONTACT</a>
-                </div>
+                <Header />
                 <div className="logo-info">
                     <img src={logo} className='logo' alt="" />
                     <div className="">
@@ -42,7 +38,7 @@ export default function Home() {
                         <span>WE CREATE NARRATIVE THROUGH CONTENT</span>
                     </div>
                     <div className="btn-infor">
-                        <a href="" className="book-btn">
+                        <a href="https://calendly.com/narative_media/30min" className="book-btn">
                             <span className="book-btn-txt">BOOK A MEETING</span>
                         </a>
                         <a href="#Contact" className="book-btn">
@@ -63,17 +59,22 @@ export default function Home() {
                         autoplay={{
                             delay: 2500,
                             disableOnInteraction: false,
-                          }}
+                        }}
                         freeMode={false}
                         pagination={{
                             clickable: true,
                         }}
-                        modules={[ Autoplay,FreeMode, Pagination]}
+                        modules={[Autoplay, FreeMode, Pagination]}
                         className="mySwiper"
-                    >{Data.trusted_by.map(data =>{
-                        return(
+                    >{Data.trusted_by.map(data => {
+                        return (
                             <SwiperSlide key={data.id}>
-                                <img src={data.img_url} alt="" />
+                                <div className="trusted-card">
+                                    <div className="">
+                                        <img className={data.img_or_logo} src={data.img_url} alt="" />
+                                    </div>
+                                </div>
+
                             </SwiperSlide>
                         )
                     })}

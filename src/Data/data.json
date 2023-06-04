@@ -3,37 +3,42 @@
         {
             "id": 1,
             "img_url": "https://firebasestorage.googleapis.com/v0/b/narative-media.appspot.com/o/trusted%2FWhatsApp%20Image%202023-05-26%20at%203.52.11%20PM.jpeg?alt=media&token=f1973529-eca3-40ec-92a0-3bedd606ebf1&_gl=1*1wmponn*_ga*MTk2MDM1NTM1Ni4xNjc3NTIwOTU5*_ga_CW55HF8NVT*MTY4NTg4MDk0MS4xNy4xLjE2ODU4ODE2MzIuMC4wLjA.",
-            "img_or_logo": "img",
+            "img_or_logo": "trusted-img",
             "instagram": "",
-            "facebook": ""
+            "facebook": "",
+            "name":""
         },
         {
             "id": 2,
-            "img_url": "https://firebasestorage.googleapis.com/v0/b/narative-media.appspot.com/o/trusted%2FZOMATO.jpeg?alt=media&token=60678865-527c-45a3-bd5f-3c9aa0e56aea&_gl=1*tuwsc4*_ga*MTk2MDM1NTM1Ni4xNjc3NTIwOTU5*_ga_CW55HF8NVT*MTY4NTg4MDk0MS4xNy4xLjE2ODU4ODE3MDkuMC4wLjA.",
-            "img_or_logo": "logo",
+            "img_url": "https://firebasestorage.googleapis.com/v0/b/narative-media.appspot.com/o/trusted%2FZOMATO.jpeg?alt=media&token=6a00ad10-c104-4df2-a62d-5b76712ee6fe&_gl=1*lgkie7*_ga*MTk2MDM1NTM1Ni4xNjc3NTIwOTU5*_ga_CW55HF8NVT*MTY4NTg5OTUwMS4xOS4xLjE2ODU4OTk1NTAuMC4wLjA.",
+            "img_or_logo": "trusted-logo",
             "instagram": "",
-            "facebook": ""
+            "facebook": "",
+            "name":""
         },
         {
             "id": 3,
             "img_url": "https://firebasestorage.googleapis.com/v0/b/narative-media.appspot.com/o/trusted%2FWhatsApp%20Image%202023-05-26%20at%203.52.19%20PM.jpeg?alt=media&token=79d77d51-2c88-467b-815a-f59031e3cb8b&_gl=1*cdu5zm*_ga*MTk2MDM1NTM1Ni4xNjc3NTIwOTU5*_ga_CW55HF8NVT*MTY4NTg4MDk0MS4xNy4xLjE2ODU4ODEzMzAuMC4wLjA.",
-            "img_or_logo": "img",
+            "img_or_logo": "trusted-img",
             "instagram": "",
-            "facebook": ""
+            "facebook": "",
+            "name":""
         },
         {
             "id": 4,
             "img_url": "https://firebasestorage.googleapis.com/v0/b/narative-media.appspot.com/o/trusted%2FWhatsApp%20Image%202023-05-26%20at%203.51.42%20PM.jpeg?alt=media&token=95bdeb24-8dcb-42f5-b696-4a95bc826da7&_gl=1*xcumhq*_ga*MTk2MDM1NTM1Ni4xNjc3NTIwOTU5*_ga_CW55HF8NVT*MTY4NTg4MDk0MS4xNy4xLjE2ODU4ODE3NDkuMC4wLjA.",
-            "img_or_logo": "logo",
+            "img_or_logo": "trusted-logo",
             "instagram": "",
-            "facebook": ""
+            "facebook": "",
+            "name":""
         },
         {
             "id": 5,
             "img_url": "https://firebasestorage.googleapis.com/v0/b/narative-media.appspot.com/o/trusted%2FWhatsApp%20Image%202023-05-26%20at%203.52.46%20PM.jpeg?alt=media&token=70f2a8a5-f7ff-49ff-a41d-e64ff56424c4&_gl=1*1bj5sii*_ga*MTk2MDM1NTM1Ni4xNjc3NTIwOTU5*_ga_CW55HF8NVT*MTY4NTg4MDk0MS4xNy4xLjE2ODU4ODE2NDguMC4wLjA.",
-            "img_or_logo": "img",
+            "img_or_logo": "trusted-img",
             "instagram": "",
-            "facebook": ""
+            "facebook": "",
+            "name":""
         }
     ],
     "services":[

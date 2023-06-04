@@ -13,6 +13,30 @@
     font-size: 28px;
     color: #000000;
 }
+.book-btn-txt:hover{
+    background: #000000;
+    border: 5px solid #000000;
+    color: #FFFFFF;
+    transition: all 0.3s;
+}
+@media (max-width:930px) {
+    .book-btn-txt{
+        font-size: 24px
+    }
+}
+@media (max-width:665px) {
+    .book-btn{
+        margin-top: 20px;
+        display: block;
+    }
+}
+@media (max-width:492px) {
+    .book-btn-txt{
+        font-size: 16px
+    }
+}
+
+
 
 .submit-button {
     font-family: 'Inter';
@@ -26,6 +50,12 @@
     padding: 5px 10px;
     color: #ffffff;
     background-color: black;
+}
+.submit-button:hover{
+    color: black;
+    background-color: #FFC627;
+    transition: all 0.3s;
+    border: 2px solid #FFC627;
 }
 
 .heading {
