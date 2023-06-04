@@ -1,0 +1,66 @@
+{
+    "trusted_by": [
+        {
+            "id": 1,
+            "img_url": "https://firebasestorage.googleapis.com/v0/b/narative-media.appspot.com/o/trusted%2FWhatsApp%20Image%202023-05-26%20at%203.52.11%20PM.jpeg?alt=media&token=f1973529-eca3-40ec-92a0-3bedd606ebf1&_gl=1*1wmponn*_ga*MTk2MDM1NTM1Ni4xNjc3NTIwOTU5*_ga_CW55HF8NVT*MTY4NTg4MDk0MS4xNy4xLjE2ODU4ODE2MzIuMC4wLjA.",
+            "img_or_logo": "img",
+            "instagram": "",
+            "facebook": ""
+        },
+        {
+            "id": 2,
+            "img_url": "https://firebasestorage.googleapis.com/v0/b/narative-media.appspot.com/o/trusted%2FZOMATO.jpeg?alt=media&token=60678865-527c-45a3-bd5f-3c9aa0e56aea&_gl=1*tuwsc4*_ga*MTk2MDM1NTM1Ni4xNjc3NTIwOTU5*_ga_CW55HF8NVT*MTY4NTg4MDk0MS4xNy4xLjE2ODU4ODE3MDkuMC4wLjA.",
+            "img_or_logo": "logo",
+            "instagram": "",
+            "facebook": ""
+        },
+        {
+            "id": 3,
+            "img_url": "https://firebasestorage.googleapis.com/v0/b/narative-media.appspot.com/o/trusted%2FWhatsApp%20Image%202023-05-26%20at%203.52.19%20PM.jpeg?alt=media&token=79d77d51-2c88-467b-815a-f59031e3cb8b&_gl=1*cdu5zm*_ga*MTk2MDM1NTM1Ni4xNjc3NTIwOTU5*_ga_CW55HF8NVT*MTY4NTg4MDk0MS4xNy4xLjE2ODU4ODEzMzAuMC4wLjA.",
+            "img_or_logo": "img",
+            "instagram": "",
+            "facebook": ""
+        },
+        {
+            "id": 4,
+            "img_url": "https://firebasestorage.googleapis.com/v0/b/narative-media.appspot.com/o/trusted%2FWhatsApp%20Image%202023-05-26%20at%203.51.42%20PM.jpeg?alt=media&token=95bdeb24-8dcb-42f5-b696-4a95bc826da7&_gl=1*xcumhq*_ga*MTk2MDM1NTM1Ni4xNjc3NTIwOTU5*_ga_CW55HF8NVT*MTY4NTg4MDk0MS4xNy4xLjE2ODU4ODE3NDkuMC4wLjA.",
+            "img_or_logo": "logo",
+            "instagram": "",
+            "facebook": ""
+        },
+        {
+            "id": 5,
+            "img_url": "https://firebasestorage.googleapis.com/v0/b/narative-media.appspot.com/o/trusted%2FWhatsApp%20Image%202023-05-26%20at%203.52.46%20PM.jpeg?alt=media&token=70f2a8a5-f7ff-49ff-a41d-e64ff56424c4&_gl=1*1bj5sii*_ga*MTk2MDM1NTM1Ni4xNjc3NTIwOTU5*_ga_CW55HF8NVT*MTY4NTg4MDk0MS4xNy4xLjE2ODU4ODE2NDguMC4wLjA.",
+            "img_or_logo": "img",
+            "instagram": "",
+            "facebook": ""
+        }
+    ],
+    "services":[
+        {
+            "id":1,
+            "img":"https://firebasestorage.googleapis.com/v0/b/narative-media.appspot.com/o/services%2Fcontent-writing.svg?alt=media&token=819686b4-f474-437a-8fb6-836b051d009c&_gl=1*y9he9m*_ga*MTk2MDM1NTM1Ni4xNjc3NTIwOTU5*_ga_CW55HF8NVT*MTY4NTg4MDk0MS4xNy4xLjE2ODU4ODIwMDguMC4wLjA.",
+            "heading":"Content Writing"
+        },
+        {
+            "id":2,
+            "img":"https://firebasestorage.googleapis.com/v0/b/narative-media.appspot.com/o/services%2Fgraphic-designing.png?alt=media&token=3e2e54e2-a8fe-4b24-aee3-2ec48d4c4cec&_gl=1*1y2k2w9*_ga*MTk2MDM1NTM1Ni4xNjc3NTIwOTU5*_ga_CW55HF8NVT*MTY4NTg4MDk0MS4xNy4xLjE2ODU4ODIwMzkuMC4wLjA.",
+            "heading":"Graphic Designing"
+        },
+        {
+            "id":3,
+            "img":"https://firebasestorage.googleapis.com/v0/b/narative-media.appspot.com/o/services%2Fsocial-media-marketing.svg?alt=media&token=9cb8ad7a-795f-4c11-aa74-a91d49472215&_gl=1*yur0cr*_ga*MTk2MDM1NTM1Ni4xNjc3NTIwOTU5*_ga_CW55HF8NVT*MTY4NTg4MDk0MS4xNy4xLjE2ODU4ODIwNjAuMC4wLjA.",
+            "heading":"Social Media Marketing"
+        },
+        {
+            "id":4,
+            "img":"https://firebasestorage.googleapis.com/v0/b/narative-media.appspot.com/o/services%2Fstrategy.svg?alt=media&token=086b1844-b7f2-4bd3-a3a5-38a2cfd4b04c&_gl=1*1bdue13*_ga*MTk2MDM1NTM1Ni4xNjc3NTIwOTU5*_ga_CW55HF8NVT*MTY4NTg4MDk0MS4xNy4xLjE2ODU4ODIxNTguMC4wLjA.",
+            "heading":"Content Strategy"
+        },
+        {
+            "id":5,
+            "img":"https://firebasestorage.googleapis.com/v0/b/narative-media.appspot.com/o/services%2Fvideo-camera.svg?alt=media&token=9a95319e-a40f-450f-b99f-4e4bddd4535b&_gl=1*1p2h058*_ga*MTk2MDM1NTM1Ni4xNjc3NTIwOTU5*_ga_CW55HF8NVT*MTY4NTg4MDk0MS4xNy4xLjE2ODU4ODIyMzUuMC4wLjA.",
+            "heading":"Video Editing"
+        }
+    ]
+}

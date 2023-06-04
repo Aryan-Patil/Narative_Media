@@ -1,0 +1,44 @@
+.book-btn {
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+.book-btn-txt {
+    border: 5px solid #000000;
+    border-radius: 10px;
+    padding: 5px 10px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 28px;
+    color: #000000;
+}
+
+.submit-button {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 36px;
+    color: #FFFFFF;
+    border: 2px solid #ffffff;
+    border-radius: 10px;
+    padding: 5px 10px;
+    color: #ffffff;
+    background-color: black;
+}
+.heading {
+    padding-top: 30px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 58px;
+}
+.contact-head{
+    color: #FFFFFF;
+}
+.about-head{
+    color: #FFFFFF;
+
+}
