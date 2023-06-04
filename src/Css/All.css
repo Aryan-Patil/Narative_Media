@@ -27,6 +27,7 @@
     color: #ffffff;
     background-color: black;
 }
+
 .heading {
     padding-top: 30px;
     font-family: 'Inter';
@@ -35,10 +36,25 @@
     font-size: 48px;
     line-height: 58px;
 }
-.contact-head{
+
+.contact-head {
     color: #FFFFFF;
 }
-.about-head{
+
+.about-head {
     color: #FFFFFF;
 
+}
+
+.book-a-meet {
+    background: #FFC627;
+    border-radius: 5px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 39px;
+    color: #000000;
+    text-decoration: none;
+    padding: 10px;
 }

@@ -16,10 +16,10 @@ export default function Home() {
             <img className='home-bg-img' src={homebackground} alt="" />
             <div className="Header">
                 <div className="header">
-                    <a className='header-text' href="">HOME</a>
-                    <a className='header-text' href="">ABOUT US</a>
-                    <a className='header-text' href="">SERVICES</a>
-                    <a className='header-text' href="">CONTACT</a>
+                    <a className='header-text' href="#">HOME</a>
+                    <a className='header-text' href="#About">ABOUT US</a>
+                    <a className='header-text' href="#Services">SERVICES</a>
+                    <a className='header-text' href="#Contact">CONTACT</a>
                 </div>
                 <div className="logo-info">
                     <img src={logo} className='logo' alt="" />
@@ -45,7 +45,7 @@ export default function Home() {
                         <a href="" className="book-btn">
                             <span className="book-btn-txt">BOOK A MEETING</span>
                         </a>
-                        <a href="" className="book-btn">
+                        <a href="#Contact" className="book-btn">
                             <span className="book-btn-txt">CONTACT US</span>
                         </a>
                     </div>

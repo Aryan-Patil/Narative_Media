@@ -13,10 +13,10 @@ export default function Footer() {
                     <div className="basic-info">We are a startup that provides Content as a Service, catering to brands and influencers seeking to expand their social media presence.Our core offering is the creation of custom content that helps drive engagement and growth for our clients on various social media platforms.</div>
                 </div>
                 <div className="footer-header-info col-sm-6 col-md-4 col-6 col">
-                    <div><a href="">HOME</a></div>
-                    <div><a href="">ABOUT US</a></div>
-                    <div><a href="">SERVICES</a></div>
-                    <div><a href="">CONTACT</a></div>
+                    <div><a href="#">HOME</a></div>
+                    <div><a href="#About">ABOUT US</a></div>
+                    <div><a href="#Services">SERVICES</a></div>
+                    <div><a href="#Contact">CONTACT</a></div>
                 </div>
                 <div className="col-sm-6 col-md-4 col-6 col">
                     <div className="mail-detail">

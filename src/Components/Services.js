@@ -4,7 +4,7 @@ import Data from "../Data/data.json";
 
 export default function Services() {
     return (
-        <div className='services'>
+        <div id='Services' className='services'>
             <div className="heading">
                 SERVICES
             </div>

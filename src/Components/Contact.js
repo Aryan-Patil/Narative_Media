@@ -17,7 +17,7 @@ export default function Contact() {
             });
     };
     return (
-        <div className='Contact-Us'>
+        <div id="Contact" className='Contact-Us'>
             <div className="heading contact-head">CONTACT US</div>
             <div className="row">
                 <div className="col contact-us-animation-tab">

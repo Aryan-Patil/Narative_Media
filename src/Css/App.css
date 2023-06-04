@@ -313,16 +313,18 @@ body {
     .contact-message {
         margin: 20px auto;
     }
-    .contact-message{
+
+    .contact-message {
         max-width: 300px;
     }
 }
+
 @media (max-width: 765px) {
     .contact-form {
         margin-left: 10px;
     }
-    .contact-message
-    {
+
+    .contact-message {
         max-width: 500px;
     }
 
@@ -333,7 +335,8 @@ body {
         width: 300px;
         height: 300px;
     }
-    .contact-message{
+
+    .contact-message {
         max-width: 300px;
     }
 }
@@ -359,7 +362,8 @@ input[type=number] {
 /* Services */
 
 .services {
-    background: radial-gradient(40.74% 130.33% at 16.59% 50%, #C6C5C5 0%, #FFFFFF 100%);;
+    background: radial-gradient(40.74% 130.33% at 16.59% 50%, #C6C5C5 0%, #FFFFFF 100%);
+    ;
     text-align: center;
     align-items: center;
     padding-bottom: 30px;
@@ -384,24 +388,60 @@ input[type=number] {
 .services-img {
     width: 80px;
 }
+
 @media (max-width:630px) {
-    .services-animation-tab{
+    .services-animation-tab {
         display: none;
     }
 }
+
 @media (max-width:600px) {
-    .services-img{
+    .services-img {
         width: 50px;
     }
-    .services-card{
+
+    .services-card {
         width: 200px;
     }
 }
 
 /* About-Us */
-.about{
+.about {
     margin-top: 30px;
     margin-bottom: 30px;
     text-align: center;
 
+}
+
+.about-animation {
+    width: 500px;
+}
+
+.about-animation-tab {
+    border-radius: 10px;
+
+}
+
+.about-content {
+    padding-top: 50px;
+    color: white;
+}
+
+.about-content div {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 34px;
+    color: #FFFFFF;
+    margin: 10px auto;
+    margin-bottom: 50px;
+}
+.about-content{
+    margin-right: -100px;
+}
+@media (max-width:750px) {
+    .about-animation-tab{
+        display: none;
+    }
 }
