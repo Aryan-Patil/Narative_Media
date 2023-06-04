@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Aryan-Patil/Narative_Media/static/css/main.50362f2d.css",
+    "main.js": "/Aryan-Patil/Narative_Media/static/js/main.0d2cd138.js",
+    "static/js/787.eb735bed.chunk.js": "/Aryan-Patil/Narative_Media/static/js/787.eb735bed.chunk.js",
+    "static/media/Home_background.png": "/Aryan-Patil/Narative_Media/static/media/Home_background.287187100c50b65de6e9.png",
+    "static/media/logo.png": "/Aryan-Patil/Narative_Media/static/media/logo.d411d1b573487f8ef57a.png",
+    "index.html": "/Aryan-Patil/Narative_Media/index.html",
+    "main.50362f2d.css.map": "/Aryan-Patil/Narative_Media/static/css/main.50362f2d.css.map",
+    "main.0d2cd138.js.map": "/Aryan-Patil/Narative_Media/static/js/main.0d2cd138.js.map",
+    "787.eb735bed.chunk.js.map": "/Aryan-Patil/Narative_Media/static/js/787.eb735bed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50362f2d.css",
+    "static/js/main.0d2cd138.js"
+  ]
+}
