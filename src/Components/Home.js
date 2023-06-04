@@ -20,9 +20,10 @@ export default function Home() {
                 <div className="logo-info">
                     <img src={logo} className='logo' alt="" />
                     <div className="">
-                        <a href=""><GrInstagram className='social-logo' /></a>
-                        <a href=""><GrFacebook className='social-logo' /></a>
-                        <a href=""><GrLinkedin className='social-logo' /></a>
+                        <a href="https://instagram.com/narative.media?igshid=MzNlNGNkZWQ4Mg==" target="_blank"><GrInstagram className='social-logo' /></a>
+                        <a href="https://www.linkedin.com/company/narative-media/" target="_blank"><GrLinkedin className='social-logo' /></a>
+                        <a href="https://instagram.com/narative.media?igshid=MzNlNGNkZWQ4Mg==" target="_blank"><GrFacebook className='social-logo' /></a>
+                        
                     </div>
                 </div>
             </div>
@@ -38,7 +39,7 @@ export default function Home() {
                         <span>WE CREATE NARRATIVE THROUGH CONTENT</span>
                     </div>
                     <div className="btn-infor">
-                        <a href="https://calendly.com/narative_media/30min" className="book-btn">
+                        <a href="https://calendly.com/narative_media/30min" target="_blank" className="book-btn">
                             <span className="book-btn-txt">BOOK A MEETING</span>
                         </a>
                         <a href="#Contact" className="book-btn">
@@ -81,7 +82,7 @@ export default function Home() {
                     </Swiper>
                 </div>
             </div>
-            <img src="https://drive.google.com/file/d/1rok8Y8sldtl9FJceR8BjsAzmNN1PeWsC" alt="" />
+            <div className="line"></div>
         </div>
     )
 }

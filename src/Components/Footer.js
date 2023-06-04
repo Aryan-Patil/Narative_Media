@@ -21,16 +21,16 @@ export default function Footer() {
                 <div className="col-sm-6 col-md-4 col-6 col">
                     <div className="mail-detail">
                         <SiMinutemailer className='mail-logo' />
-                        <a className='footer-about-details' href="mailto:">narativemedia@gmail.com</a>
+                        <a className='footer-about-details' href="mailto:visualvibeteam@gmail.com">narativemedia@gmail.com</a>
                     </div>
                     <div className="location-detail">
                         <GrMapLocation className='location-logo' />
                         <span className='footer-about-details'> Mumbai, Maharashtra, IN</span>
                     </div>
                     <div className="social-media-details">
-                        <a href=""><GrInstagram className="social-media-logo" /></a>
-                        <a href=""><GrFacebook className="social-media-logo" /></a>
-                        <a href=""><GrLinkedin className="social-media-logo" /></a>
+                        <a href="https://instagram.com/narative.media?igshid=MzNlNGNkZWQ4Mg==" target="_blank"><GrInstagram className="social-media-logo" /></a>
+                        <a href="https://instagram.com/narative.media?igshid=MzNlNGNkZWQ4Mg==" target="_blank"><GrFacebook className="social-media-logo" /></a>
+                        <a href="https://www.linkedin.com/company/narative-media/" target="_blank"><GrLinkedin className="social-media-logo" /></a>
                     </div>
                 </div>
             </div>
@@ -38,17 +38,17 @@ export default function Footer() {
 
             <div class="row">
                 <div class=" col">
-                <img className='footer-logo' src={logo} alt="" />
-                <div className="social-media-details-">
-                        <a href=""><GrInstagram className="social-media-logo" /></a>
-                        <a href=""><GrFacebook className="social-media-logo" /></a>
-                        <a href=""><GrLinkedin className="social-media-logo" /></a>
+                    <img className='footer-logo' src={logo} alt="" />
+                    <div className="social-media-details-">
+                        <a href="https://instagram.com/narative.media?igshid=MzNlNGNkZWQ4Mg==" target="_blank"><GrInstagram className="social-media-logo" /></a>
+                        <a href="https://instagram.com/narative.media?igshid=MzNlNGNkZWQ4Mg==" target="_blank"><GrFacebook className="social-media-logo" /></a>
+                        <a href="https://www.linkedin.com/company/narative-media/" target="_blank"><GrLinkedin className="social-media-logo" /></a>
                     </div>
                 </div>
                 <div class="footer-2 col">
-                <div className="mail-detail">
+                    <div className="mail-detail">
                         <SiMinutemailer className='mail-logo' />
-                        <a className='footer-about-details' href="mailto:">narativemedia@gmail.com</a>
+                        <a className='footer-about-details' href="mailto:visualvibeteam@gmail.com" >narativemedia@gmail.com</a>
                     </div>
                     <div className="location-detail">
                         <GrMapLocation className='location-logo' />
@@ -56,6 +56,7 @@ export default function Footer() {
                     </div>
                 </div>
             </div>}
+            <div className='copyright'>© Copyright NARATIVE MEDIA | All Rights Reserved   2023  |  Created By Aryan Patil   |   <a href="mailto:aryanpatil050103@mail.com">aryanpatil050103@gmail.com</a></div>
         </div>
     )
 }

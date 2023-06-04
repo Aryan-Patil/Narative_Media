@@ -88,3 +88,24 @@
     text-decoration: none;
     padding: 10px;
 }
+.copyright{
+    font-size: 10px;
+    padding-top: 30px;padding-bottom: 5px;
+    color: rgb(40, 40, 40);
+}
+.copyright a{
+    color: rgb(40, 40, 40);;
+}
+@media (max-width:1100px) {
+    .copyright{
+        padding-bottom: 60px;
+    }
+}
+.line{
+    margin-top: 10px;
+    margin-bottom: 50px;
+    margin-left: 5%;
+    width: 90%;
+    height: 1px;
+    background-color: #FFFFFF;
+}
