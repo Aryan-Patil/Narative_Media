@@ -548,6 +548,23 @@ input[type=number] {
     -moz-appearance: textfield;
 }
 
+.fade-in{
+    border-radius: 10px;
+    padding: 10px 20px;
+    right: 10px;
+    top: 50px;
+    z-index: 100;
+    font-size: 30px;
+    background-color: green;
+    position: fixed;
+    color: white;
+}
+.msg_sent{
+    color: #000000;
+}
+.fade-out{
+    display: none;
+}
 
 /* Services */
 

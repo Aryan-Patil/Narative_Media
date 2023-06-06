@@ -5,19 +5,34 @@ import { Player } from '@lottiefiles/react-lottie-player';
 export default function Contact() {
     const form = useRef();
 
+    function loader(){
+        document.querySelector('.msg_sent').classList.add('fade-in');
+      }
+      function loader2(){
+        document.querySelector('.msg_sent').classList.add('fade-out');
+      }
+      function fadein(){
+        setInterval(loader,1000);
+        setInterval(loader2, 5000);
+      }
+
     const sendEmail = (e) => {
         e.preventDefault();
 
         emailjs.sendForm('service_w8i4cht', 'template_71dmufc', form.current, '-2FRTwK8Q9u_MZmJJ')
             .then((result) => {
                 console.log(result.text);
-                console.log("submitted")
+                console.log("submitted");
+                fadein();
             }, (error) => {
                 console.log(error.text);
             });
     };
     return (
         <div id="Contact" className='Contact-Us'>
+            <div className="msg_sent">
+                <span>Message was sent</span>
+            </div>
             <div className="heading contact-head">CONTACT US</div>
             <div className="row">
                 <div className="col contact-us-animation-tab">

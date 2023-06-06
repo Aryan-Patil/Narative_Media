@@ -2,7 +2,7 @@
   "name": "narative_media",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Aryan-Patil/Narative_Media",
+  "homepage": "http://Aryan-Patil.github.io/Narative_Media",
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@lottiefiles/react-lottie-player": "^3.5.3",
