@@ -7,7 +7,8 @@ Welcome to Narative Media, a web application for Users to help interact wit Nara
 - Contact Us form created using Email.js
 - Option for schedule a meeting using Calandly
 
-
+## Visit
+Visit Narative Media Website [visit](https://aryan-patil.github.io/Narative_Media/)
 
 ## Description
 
@@ -22,10 +23,12 @@ This website is the face of Narative Media and it helps to contact narative medi
 - Front-end: HTML, CSS, JavaScript, React
 - Backend: Firebase (Firebase Authentication, Cloud Firestore, Cloud Storage, Email.js, Calendly)
 
-## Visit
-Visit Narative Media Website [visit](https://aryan-patil.github.io/Narative_Media/)
+
 
 ## Design
+
+
+![narative](https://github.com/Aryan-Patil/Narative_Media/assets/79255053/1d06bab0-5791-4c40-82d0-f37d4fd2e3e8)
 
 
 
