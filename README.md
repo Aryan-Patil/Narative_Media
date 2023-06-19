@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+# Narative Media
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to Narative Media, a web application for Users to help interact wit Narative Media Team. Narative Media is a startup that specializes in social media marketing and provides a platform for users to create and share engaging visual content.
 
-## Available Scripts
+## Features
+- User Friendly and minimalistic design
+- Contact Us form created using Email.js
+- Option for schedule a meeting using Calandly
 
-In the project directory, you can run:
+## Visit
+Visit Narative Media Website [visit](https://aryan-patil.github.io/Narative_Media/)
 
-### `npm start`
+## Description
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Narative Media is dedicated to helping businesses and individuals succeed in social media marketing by providing a comprehensive content creation and management platform. With Narative Media, you can create stunning visual stories that are optimized for various social media platforms such as Instagram, Facebook, and Twitter.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+One of the key features of Narative Media is the ability to schedule meeting anytime. You can plan your content calendar and schedule posts in advance, ensuring a consistent presence on social media. Additionally, the platform offers analytics and insights to help you measure the performance of your content and make data-driven decisions for your social media strategy.
 
-### `npm test`
+This website is the face of Narative Media and it helps to contact narative media team and schedule a vartual meeting with them to grow your Social Media account.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Technologies Used
 
-### `npm run build`
+- Front-end: HTML, CSS, JavaScript, React
+- Backend: Firebase (Firebase Authentication, Cloud Firestore, Cloud Storage, Email.js, Calendly)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Design
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![narative](https://github.com/Aryan-Patil/Narative_Media/assets/79255053/1d06bab0-5791-4c40-82d0-f37d4fd2e3e8)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
