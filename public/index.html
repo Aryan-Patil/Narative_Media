@@ -1,34 +1,54 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="theme-color" content="#000000" />
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
-    <meta
-      name="description"
-      content="A social media marketing agency"
-    />
-    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
-    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
-    <script type="text/javascript">
-      (function(l) {
-        if (l.search[1] === '/' ) {
-          var decoded = l.search.slice(1).split('&').map(function(s) { 
-            return s.replace(/~and~/g, '&')
-          }).join('?');
-          window.history.replaceState(null, null,
-              l.pathname.slice(0, -1) + decoded + l.hash
-          );
-        }
-      }(window.location))
-    </script>
-    <title>NARATIVE MEDIA</title>
-  </head>
-  <body>
-    <noscript>You need to enable JavaScript to run this app.</noscript>
-    <div id="root"></div>
-  </body>
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
+
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+  <meta name="description"
+    content="We are a startup that provides Content as a Service, catering to brands and influencers seeking to expand their social media presence.Our core offering is the creation of custom content that helps drive engagement and growth for our clients on various social media platforms." />
+  <meta name="keywords"
+    content="Social Media, Social Median Marketing, Graphic Design, Video Editing, Content Strategy, Content Writing" />
+  <link rel="canonical" href="/" />
+  <link rel="apple-touch-icon" href="narative.jpeg" />
+  <link rel="manifest" href="narative.jpeg" />
+
+  <meta property="og:title" content="Narative Media" />
+  <meta property="og:description"
+    content="We are a startup that provides Content as a Service, catering to brands and influencers seeking to expand their social media presence.Our core offering is the creation of custom content that helps drive engagement and growth for our clients on various social media platforms." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://narative-media.web.app/" />
+  <meta property="og:image"
+    content="https://firebasestorage.googleapis.com/v0/b/narative-media.appspot.com/o/narative.jpeg?alt=media&token=7a6b7277-1361-4c2c-8a2c-0bd3a126da87" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Narative Media" />
+  <meta name="twitter:description"
+    content="We are a startup that provides Content as a Service, catering to brands and influencers seeking to expand their social media presence.Our core offering is the creation of custom content that helps drive engagement and growth for our clients on various social media platforms." />
+  <meta name="twitter:image"
+    content="https://firebasestorage.googleapis.com/v0/b/narative-media.appspot.com/o/narative.jpeg?alt=media&token=7a6b7277-1361-4c2c-8a2c-0bd3a126da87" />
+  <script type="text/javascript">
+    (function (l) {
+      if (l.search[1] === '/') {
+        var decoded = l.search.slice(1).split('&').map(function (s) {
+          return s.replace(/~and~/g, '&')
+        }).join('?');
+        window.history.replaceState(null, null,
+          l.pathname.slice(0, -1) + decoded + l.hash
+        );
+      }
+    }(window.location))
+  </script>
+  <title>NARATIVE MEDIA</title>
+</head>
+
+<body>
+  <noscript>You need to enable JavaScript to run this app.</noscript>
+  <div id="root"></div>
+</body>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"
+  integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
+
 </html>
