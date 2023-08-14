@@ -5,12 +5,15 @@ import Footer from "./Components/Footer";
 import Contact from "./Components/Contact";
 import Services from "./Components/Services";
 import About from "./Components/About";
+import Work from "./Components/Work";
+
 function App() {
   return (
     <div className="App">
       <Home />
-      <About />
       <Services />
+      <Work/>
+      <About />
       <Contact/>
       <Footer />
     </div>

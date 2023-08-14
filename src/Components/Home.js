@@ -54,7 +54,7 @@ export default function Home() {
                 </div>
                 <div className="trusted-by-body">
                     <Swiper
-                        slidesPerView={2}
+                        slidesPerView={3}
                         spaceBetween={30}
                         loop={true}
                         autoplay={{
@@ -82,7 +82,7 @@ export default function Home() {
                     </Swiper>
                 </div>
             </div>
-            <div className="line"></div>
+            {/* <div className="line"></div> */}
         </div>
     )
 }

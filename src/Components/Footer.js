@@ -56,7 +56,7 @@ export default function Footer() {
                     </div>
                 </div>
             </div>}
-            <div className='copyright'>© Copyright NARATIVE MEDIA | All Rights Reserved   2023  |  Created By Aryan Patil   |   <a href="mailto:aryanpatil050103@mail.com">aryanpatil050103@gmail.com</a></div>
+            <div className='copyright'>© Copyright NARATIVE MEDIA | All Rights Reserved   2023  |  Created By Aryan Patil   |   <a href="https://aryanpatil.me" target="_blank">aryanpatil.me</a></div>
         </div>
     )
 }
