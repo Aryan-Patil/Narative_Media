@@ -82,7 +82,7 @@ export default function Home() {
                     </Swiper>
                 </div>
             </div>
-            {/* <div className="line"></div> */}
+            <div className="line"></div>
         </div>
     )
 }

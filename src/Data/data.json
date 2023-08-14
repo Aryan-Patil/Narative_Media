@@ -6,7 +6,7 @@
             "img_or_logo": "trusted-img",
             "instagram": "",
             "facebook": "",
-            "name":""
+            "name": ""
         },
         {
             "id": 2,
@@ -14,7 +14,7 @@
             "img_or_logo": "trusted-logo",
             "instagram": "",
             "facebook": "",
-            "name":""
+            "name": ""
         },
         {
             "id": 3,
@@ -22,7 +22,7 @@
             "img_or_logo": "trusted-img",
             "instagram": "",
             "facebook": "",
-            "name":""
+            "name": ""
         },
         {
             "id": 4,
@@ -30,7 +30,7 @@
             "img_or_logo": "trusted-logo",
             "instagram": "",
             "facebook": "",
-            "name":""
+            "name": ""
         },
         {
             "id": 5,
@@ -38,7 +38,7 @@
             "img_or_logo": "trusted-img",
             "instagram": "",
             "facebook": "",
-            "name":""
+            "name": ""
         },
         {
             "id": 6,
@@ -46,7 +46,7 @@
             "img_or_logo": "trusted-img",
             "instagram": "",
             "facebook": "",
-            "name":""
+            "name": ""
         },
         {
             "id": 7,
@@ -54,7 +54,7 @@
             "img_or_logo": "trusted-img",
             "instagram": "",
             "facebook": "",
-            "name":""
+            "name": ""
         },
         {
             "id": 8,
@@ -62,7 +62,7 @@
             "img_or_logo": "trusted-img",
             "instagram": "",
             "facebook": "",
-            "name":""
+            "name": ""
         },
         {
             "id": 9,
@@ -70,68 +70,73 @@
             "img_or_logo": "trusted-img",
             "instagram": "",
             "facebook": "",
-            "name":""
+            "name": ""
         }
     ],
-    "services":[
+    "services": [
         {
-            "id":1,
-            "img":"https://firebasestorage.googleapis.com/v0/b/narative-media.appspot.com/o/services%2Fcontent-writing.svg?alt=media&token=819686b4-f474-437a-8fb6-836b051d009c&_gl=1*y9he9m*_ga*MTk2MDM1NTM1Ni4xNjc3NTIwOTU5*_ga_CW55HF8NVT*MTY4NTg4MDk0MS4xNy4xLjE2ODU4ODIwMDguMC4wLjA.",
-            "heading":"Content Writing"
+            "id": 1,
+            "img": "https://firebasestorage.googleapis.com/v0/b/narative-media.appspot.com/o/services%2Fcontent-writing.svg?alt=media&token=819686b4-f474-437a-8fb6-836b051d009c&_gl=1*y9he9m*_ga*MTk2MDM1NTM1Ni4xNjc3NTIwOTU5*_ga_CW55HF8NVT*MTY4NTg4MDk0MS4xNy4xLjE2ODU4ODIwMDguMC4wLjA.",
+            "heading": "Content Writing"
         },
         {
-            "id":2,
-            "img":"https://firebasestorage.googleapis.com/v0/b/narative-media.appspot.com/o/services%2Fgraphic-designing.png?alt=media&token=3e2e54e2-a8fe-4b24-aee3-2ec48d4c4cec&_gl=1*1y2k2w9*_ga*MTk2MDM1NTM1Ni4xNjc3NTIwOTU5*_ga_CW55HF8NVT*MTY4NTg4MDk0MS4xNy4xLjE2ODU4ODIwMzkuMC4wLjA.",
-            "heading":"Graphic Designing"
+            "id": 2,
+            "img": "https://firebasestorage.googleapis.com/v0/b/narative-media.appspot.com/o/services%2Fgraphic-designing.png?alt=media&token=3e2e54e2-a8fe-4b24-aee3-2ec48d4c4cec&_gl=1*1y2k2w9*_ga*MTk2MDM1NTM1Ni4xNjc3NTIwOTU5*_ga_CW55HF8NVT*MTY4NTg4MDk0MS4xNy4xLjE2ODU4ODIwMzkuMC4wLjA.",
+            "heading": "Graphic Designing"
         },
         {
-            "id":3,
-            "img":"https://firebasestorage.googleapis.com/v0/b/narative-media.appspot.com/o/services%2Fsocial-media-marketing.svg?alt=media&token=9cb8ad7a-795f-4c11-aa74-a91d49472215&_gl=1*yur0cr*_ga*MTk2MDM1NTM1Ni4xNjc3NTIwOTU5*_ga_CW55HF8NVT*MTY4NTg4MDk0MS4xNy4xLjE2ODU4ODIwNjAuMC4wLjA.",
-            "heading":"Social Media Marketing"
+            "id": 3,
+            "img": "https://firebasestorage.googleapis.com/v0/b/narative-media.appspot.com/o/services%2Fsocial-media-marketing.svg?alt=media&token=9cb8ad7a-795f-4c11-aa74-a91d49472215&_gl=1*yur0cr*_ga*MTk2MDM1NTM1Ni4xNjc3NTIwOTU5*_ga_CW55HF8NVT*MTY4NTg4MDk0MS4xNy4xLjE2ODU4ODIwNjAuMC4wLjA.",
+            "heading": "Social Media Marketing"
         },
         {
-            "id":4,
-            "img":"https://firebasestorage.googleapis.com/v0/b/narative-media.appspot.com/o/services%2Fstrategy.svg?alt=media&token=086b1844-b7f2-4bd3-a3a5-38a2cfd4b04c&_gl=1*1bdue13*_ga*MTk2MDM1NTM1Ni4xNjc3NTIwOTU5*_ga_CW55HF8NVT*MTY4NTg4MDk0MS4xNy4xLjE2ODU4ODIxNTguMC4wLjA.",
-            "heading":"Content Strategy"
+            "id": 4,
+            "img": "https://firebasestorage.googleapis.com/v0/b/narative-media.appspot.com/o/services%2Fstrategy.svg?alt=media&token=086b1844-b7f2-4bd3-a3a5-38a2cfd4b04c&_gl=1*1bdue13*_ga*MTk2MDM1NTM1Ni4xNjc3NTIwOTU5*_ga_CW55HF8NVT*MTY4NTg4MDk0MS4xNy4xLjE2ODU4ODIxNTguMC4wLjA.",
+            "heading": "Content Strategy"
         },
         {
-            "id":5,
-            "img":"https://firebasestorage.googleapis.com/v0/b/narative-media.appspot.com/o/services%2Fvideo-camera.svg?alt=media&token=9a95319e-a40f-450f-b99f-4e4bddd4535b&_gl=1*1p2h058*_ga*MTk2MDM1NTM1Ni4xNjc3NTIwOTU5*_ga_CW55HF8NVT*MTY4NTg4MDk0MS4xNy4xLjE2ODU4ODIyMzUuMC4wLjA.",
-            "heading":"Video Editing"
+            "id": 5,
+            "img": "https://firebasestorage.googleapis.com/v0/b/narative-media.appspot.com/o/services%2Fvideo-camera.svg?alt=media&token=9a95319e-a40f-450f-b99f-4e4bddd4535b&_gl=1*1p2h058*_ga*MTk2MDM1NTM1Ni4xNjc3NTIwOTU5*_ga_CW55HF8NVT*MTY4NTg4MDk0MS4xNy4xLjE2ODU4ODIyMzUuMC4wLjA.",
+            "heading": "Video Editing"
         }
     ],
-    "work_sample":[
+    "work_sample": [
         {
-            "id":1,
-            "videoUrl":"https://firebasestorage.googleapis.com/v0/b/narative-media-60c6a.appspot.com/o/Work_videos%2F1.mp4?alt=media&token=63958493-e7ad-4b1a-84c1-127c11475493",
-            "type":1
+            "id": 1,
+            "videoUrl": "https://firebasestorage.googleapis.com/v0/b/narative-media-60c6a.appspot.com/o/Work_videos%2F1.mp4?alt=media&token=63958493-e7ad-4b1a-84c1-127c11475493",
+            "type": 1
         },
         {
-            "id":2,
-            "videoUrl":"https://firebasestorage.googleapis.com/v0/b/data-31cdc.appspot.com/o/2.mp4?alt=media&token=fcfda1ba-423e-464b-9e4e-4d40cdce5756",
-            "type":1
+            "id": 2,
+            "videoUrl": "https://firebasestorage.googleapis.com/v0/b/data-31cdc.appspot.com/o/2.mp4?alt=media&token=fcfda1ba-423e-464b-9e4e-4d40cdce5756",
+            "type": 1
         },
         {
-            "id":3,
-            "videoUrl":"https://firebasestorage.googleapis.com/v0/b/data-2-bc14d.appspot.com/o/3.mp4?alt=media&token=7ca831a6-fa54-4fc4-81eb-63de5724dd98",
-            "type":1
+            "id": 3,
+            "videoUrl": "https://firebasestorage.googleapis.com/v0/b/data-2-bc14d.appspot.com/o/3.mp4?alt=media&token=7ca831a6-fa54-4fc4-81eb-63de5724dd98",
+            "type": 1
         },
         {
-            "id":4,
-            "videoUrl":"https://firebasestorage.googleapis.com/v0/b/narative-media-60c6a.appspot.com/o/Work_videos%2F4.mp4?alt=media&token=93b0755c-395f-42f2-957e-ac14c35e41b7",
-            "type":2
+            "id": 4,
+            "videoUrl": "https://firebasestorage.googleapis.com/v0/b/narative-media-60c6a.appspot.com/o/Work_videos%2F4.mp4?alt=media&token=93b0755c-395f-42f2-957e-ac14c35e41b7",
+            "type": 2
         },
         {
-            "id":6,
-            "videoUrl":"https://firebasestorage.googleapis.com/v0/b/data-3-35c83.appspot.com/o/5.mp4?alt=media&token=d1db5609-96d8-4fd5-bae7-05980d9a462f",
-            "type":2
+            "id": 6,
+            "videoUrl": "https://firebasestorage.googleapis.com/v0/b/data-3-35c83.appspot.com/o/5.mp4?alt=media&token=d1db5609-96d8-4fd5-bae7-05980d9a462f",
+            "type": 2
         },
         {
-            "id":5,
-            "videoUrl":"https://firebasestorage.googleapis.com/v0/b/narative-media-60c6a.appspot.com/o/Work_videos%2F6.mp4?alt=media&token=b78dad12-b815-44b6-816b-e072f20d0322",
-            "type":1
+            "id": 5,
+            "videoUrl": "https://firebasestorage.googleapis.com/v0/b/narative-media-60c6a.appspot.com/o/Work_videos%2F6.mp4?alt=media&token=b78dad12-b815-44b6-816b-e072f20d0322",
+            "type": 1
         }
-       
-       
+    ],
+    "Testimonial": [
+        "https://firebasestorage.googleapis.com/v0/b/testimonial-7ac20.appspot.com/o/WhatsApp%20Image%202023-08-08%20at%2022.37.56.jpg?alt=media&token=96eb679f-3d2f-4fa3-9ed8-9ae00111d8c4",
+        "https://firebasestorage.googleapis.com/v0/b/testimonial-7ac20.appspot.com/o/WhatsApp%20Image%202023-08-08%20at%2022.38.29.jpg?alt=media&token=672b08b1-e2cd-4e1e-9f83-9dc6bddfbc8d",
+        "https://firebasestorage.googleapis.com/v0/b/testimonial-7ac20.appspot.com/o/WhatsApp%20Image%202023-08-08%20at%2022.39.08.jpg?alt=media&token=f64ef20c-f4e1-4077-aece-23ff01146fbd",
+        "https://firebasestorage.googleapis.com/v0/b/testimonial-7ac20.appspot.com/o/WhatsApp%20Image%202023-08-08%20at%2022.39.28.jpg?alt=media&token=2c1e42c7-a444-4287-92a6-48121700fde7",
+        "https://firebasestorage.googleapis.com/v0/b/testimonial-7ac20.appspot.com/o/WhatsApp%20Image%202023-08-08%20at%2022.39.54.jpg?alt=media&token=fa9b25a5-33b1-4db0-a249-59b5b5a519d4"
     ]
 }

@@ -5,7 +5,7 @@ import Data from "../Data/data.json";
 export default function Services() {
     return (
         <div id='Services' className='services'>
-            <div className="heading">
+            <div className="heading white">
                 SERVICES
             </div>
             <div className="row">

@@ -109,3 +109,10 @@
     height: 1px;
     background-color: #FFFFFF;
 }
+
+.black{
+    color: #000 !important;
+}
+.white{
+    color: #FFFFFF !important;
+}

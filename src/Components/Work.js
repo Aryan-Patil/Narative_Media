@@ -69,7 +69,7 @@ function Work() {
   return (
     <div className="Work">
       <div className="container">
-        <h1 className="heading about-head">Our Work</h1>
+        <h1 className="heading">Our Work</h1>
         <Swiper
           ref={swiperRef}
           effect={'coverflow'}
