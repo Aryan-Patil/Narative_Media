@@ -2,46 +2,6 @@
     "trusted_by": [
         {
             "id": 1,
-            "img_url": "https://firebasestorage.googleapis.com/v0/b/narative-media.appspot.com/o/trusted%2FWhatsApp%20Image%202023-05-26%20at%203.52.11%20PM.jpeg?alt=media&token=f1973529-eca3-40ec-92a0-3bedd606ebf1&_gl=1*1wmponn*_ga*MTk2MDM1NTM1Ni4xNjc3NTIwOTU5*_ga_CW55HF8NVT*MTY4NTg4MDk0MS4xNy4xLjE2ODU4ODE2MzIuMC4wLjA.",
-            "img_or_logo": "trusted-img",
-            "instagram": "",
-            "facebook": "",
-            "name": ""
-        },
-        {
-            "id": 2,
-            "img_url": "https://firebasestorage.googleapis.com/v0/b/narative-media.appspot.com/o/trusted%2FZOMATO.jpeg?alt=media&token=6a00ad10-c104-4df2-a62d-5b76712ee6fe&_gl=1*lgkie7*_ga*MTk2MDM1NTM1Ni4xNjc3NTIwOTU5*_ga_CW55HF8NVT*MTY4NTg5OTUwMS4xOS4xLjE2ODU4OTk1NTAuMC4wLjA.",
-            "img_or_logo": "trusted-logo",
-            "instagram": "",
-            "facebook": "",
-            "name": ""
-        },
-        {
-            "id": 3,
-            "img_url": "https://firebasestorage.googleapis.com/v0/b/narative-media.appspot.com/o/trusted%2FWhatsApp%20Image%202023-05-26%20at%203.52.19%20PM.jpeg?alt=media&token=79d77d51-2c88-467b-815a-f59031e3cb8b&_gl=1*cdu5zm*_ga*MTk2MDM1NTM1Ni4xNjc3NTIwOTU5*_ga_CW55HF8NVT*MTY4NTg4MDk0MS4xNy4xLjE2ODU4ODEzMzAuMC4wLjA.",
-            "img_or_logo": "trusted-img",
-            "instagram": "",
-            "facebook": "",
-            "name": ""
-        },
-        {
-            "id": 4,
-            "img_url": "https://firebasestorage.googleapis.com/v0/b/narative-media.appspot.com/o/trusted%2FWhatsApp%20Image%202023-05-26%20at%203.51.42%20PM.jpeg?alt=media&token=95bdeb24-8dcb-42f5-b696-4a95bc826da7&_gl=1*xcumhq*_ga*MTk2MDM1NTM1Ni4xNjc3NTIwOTU5*_ga_CW55HF8NVT*MTY4NTg4MDk0MS4xNy4xLjE2ODU4ODE3NDkuMC4wLjA.",
-            "img_or_logo": "trusted-logo",
-            "instagram": "",
-            "facebook": "",
-            "name": ""
-        },
-        {
-            "id": 5,
-            "img_url": "https://firebasestorage.googleapis.com/v0/b/narative-media.appspot.com/o/trusted%2FWhatsApp%20Image%202023-05-26%20at%203.52.46%20PM.jpeg?alt=media&token=70f2a8a5-f7ff-49ff-a41d-e64ff56424c4&_gl=1*1bj5sii*_ga*MTk2MDM1NTM1Ni4xNjc3NTIwOTU5*_ga_CW55HF8NVT*MTY4NTg4MDk0MS4xNy4xLjE2ODU4ODE2NDguMC4wLjA.",
-            "img_or_logo": "trusted-img",
-            "instagram": "",
-            "facebook": "",
-            "name": ""
-        },
-        {
-            "id": 6,
             "img_url": "https://firebasestorage.googleapis.com/v0/b/data-3-cf2b8.appspot.com/o/Clients%2FApruv%20Singh%20(top%20marketing%20consultant).jpg?alt=media&token=056b1269-de09-4b07-87d0-6dd92b06ea99",
             "img_or_logo": "trusted-img",
             "instagram": "",
@@ -49,7 +9,7 @@
             "name": ""
         },
         {
-            "id": 7,
+            "id": 2,
             "img_url": "https://firebasestorage.googleapis.com/v0/b/data-3-cf2b8.appspot.com/o/Clients%2FDhairya%20gala%20(Founder%20of%20Expansedigital).jpg?alt=media&token=4efb3c1b-bc29-470d-869e-60d50cc40dbb",
             "img_or_logo": "trusted-img",
             "instagram": "",
@@ -57,7 +17,7 @@
             "name": ""
         },
         {
-            "id": 8,
+            "id": 3,
             "img_url": "https://firebasestorage.googleapis.com/v0/b/data-3-cf2b8.appspot.com/o/Clients%2FKewal%20kishan%20(Automation%20coach).jpg?alt=media&token=ac7f34ba-d912-4123-903c-c6452b1c1e7f",
             "img_or_logo": "trusted-img",
             "instagram": "",
@@ -65,7 +25,7 @@
             "name": ""
         },
         {
-            "id": 9,
+            "id": 4,
             "img_url": "https://firebasestorage.googleapis.com/v0/b/data-3-cf2b8.appspot.com/o/Clients%2FVedantika%20puri%20(spiritual%20coach).jpg?alt=media&token=8a11713b-c94c-4980-91f0-7685676caecd",
             "img_or_logo": "trusted-img",
             "instagram": "",
